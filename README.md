@@ -1,3 +1,5 @@
+👋 Hi there, I'm Filip!
+
 # 💫 About Me:
 🔭 I’m currently working on:<br>Building and refining my skills by working on personal projects, including a portfolio website and a small e-commerce application.<br><br>👯 I’m looking to collaborate on:<br>Open-source projects where I can contribute and learn, particularly in areas like front-end development with React, back-end APIs, and database management.<br><br>🤝 I’m looking for help with:<br>Improving my understanding of advanced JavaScript concepts, best practices in full-stack development, and cloud deployment strategies.<br><br>🌱 I’m currently learning:<br>Deepening my knowledge of TypeScript, React, Node.js, and databases like MongoDB and PostgreSQL. I'm also exploring DevOps tools like Docker and CI/CD pipelines.<br><br>💬 Ask me about:<br>React, JavaScript, or anything related to web development. I'm also happy to discuss the challenges and excitement of transitioning into full-stack development.<br><br>⚡ Fun fact:<br>When I'm not coding, you can find me exploring new tech gadgets, or playing strategy-based video games and watching football.
 
