@@ -20,4 +20,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=FilipMladenovski&icon=0&color=1)](https://visitcount.itsvg.in)
 
+📞 Contact Me
+LinkedIn: Filip Mladenovski
+Email: filip_chelsea@live.com
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
